@@ -7,3 +7,4 @@ Repository ini digunakan untuk sayembara pencarian volunter pembuatan website Ay
 Berikut daftar Volunter yang diterima:
 
 * Nilam Setyoningrum, [LinkedIn](https://id.linkedin.com/in/nilam-setyoningrum)
+* Arum Ningrum, [LinkedIn](https://id.linkedin.com/in/nilam-s-6820841a7)
